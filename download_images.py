@@ -17,6 +17,10 @@ def download_images(url, output_dir):
         # until the mouse is over it
         page.mouse.move(500, 500)
 
+        calssification_button = page.get_by_text("Select Emotion")
+        calssification_button.select_option("Neutral")
+        sleep(2)
+
         while downloads < 3000:
             for i in range(8):  # IDs A0 - A7
                 image_id = f"#A{i}"  # Seleciona o ID da imagem
