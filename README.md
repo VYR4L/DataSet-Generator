@@ -15,9 +15,11 @@ Licença da GANimation:
 O conteúdo da pasta ganimation/ está licenciado sob Creative Commons BY-NC-SA 4.0.
 Você pode reutilizá-lo e modificá-lo para fins não comerciais, desde que atribua os autores originais e compartilhe suas modificações sob a mesma licença.
 
+```
 @article{Pumarola_ijcv2019,
     title={GANimation: One-Shot Anatomically Consistent Facial Animation},
     author={A. Pumarola and A. Agudo and A.M. Martinez and A. Sanfeliu and F. Moreno-Noguer},
     booktitle={International Journal of Computer Vision (IJCV)},
     year={2019}
 }
+```
