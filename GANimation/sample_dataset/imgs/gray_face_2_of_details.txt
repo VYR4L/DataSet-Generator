@@ -1,0 +1,10 @@
+Input:C:\Users\fkzza\Documents\Programming\Unioeste\TCC\DataSet-Generator\GANimation\sample_dataset\imgs\gray_face_2.jpg
+Input full path:C:\Users\fkzza\Documents\Programming\Unioeste\TCC\DataSet-Generator\GANimation\sample_dataset\imgs\gray_face_2.jpg
+Camera parameters:466.667,466.667,256,256
+Output csv:gray_face_2.csv
+Gaze: 0
+AUs: 1
+Landmarks 2D: 0
+Landmarks 3D: 0
+Pose: 0
+Shape parameters: 0
