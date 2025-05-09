@@ -5,10 +5,3 @@ As imagens são obtidas do site https://thispersonnotexist.org/, convertidas par
 * Clone o repositório, você pode fazer isso através do comando:<br><code>git clone https://github.com/VYR4L/DataSet-Generator.git</code>
 * Instale as dependências:<br><code>pip install -r requirements.txt</code>
 * Execute o arquivo <code>main.py</code>
-
-    title={GANimation: One-Shot Anatomically Consistent Facial Animation},
-    author={A. Pumarola and A. Agudo and A.M. Martinez and A. Sanfeliu and F. Moreno-Noguer},
-    booktitle={International Journal of Computer Vision (IJCV)},
-    year={2019}
-}
-```
