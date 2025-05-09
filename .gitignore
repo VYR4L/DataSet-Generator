@@ -148,9 +148,6 @@ images/
 # gray images
 gray_images/
 
-# Ganimation Checkpoints
-Ganimation/checkpoints/
-
 # Share
 share/
 
